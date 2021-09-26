@@ -1,4 +1,4 @@
-# Ci-Visibility For Javascript-Jest
+# Ci-Visibility For Javascript-Cucumber
  
 ## Compatibility 
 Cucumber-js >= 7.0.0
